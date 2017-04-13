@@ -1,3 +1,18 @@
 body {
     text-align: center;
 }
+header {
+	margin: auto;
+	max-width: 505px;
+	display: flex;
+}
+.char-boy {
+	font-size: 3em;
+	text-align: center;
+	width: 50%;
+}
+.bugs {
+	font-size: 3em;
+	text-align: center;
+	width: 50%;
+}
